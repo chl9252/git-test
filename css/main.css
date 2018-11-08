@@ -16,13 +16,17 @@
 }
 
 .green {
-	background: green;
+	background-color: green;
 }
 
 .blue {
-	background: blue;
+	background-color: blue;
 }
 
 .violet {
-	background: #555fa4;
+	background-color: #555fa4;
+}
+
+.red {
+	background-color: #eb353a;
 }
