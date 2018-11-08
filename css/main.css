@@ -1,0 +1,24 @@
+.wrapper {
+	width: 700px;
+	height: 150px;
+	background-color: #ccc;
+	padding: 20px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	color: #ffffff;
+}
+
+.square {
+	width: 100px;
+	height: 70px;
+	
+}
+
+.green {
+	background: green;
+}
+
+.blue {
+	background: blue;
+}
